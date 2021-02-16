@@ -1,0 +1,3 @@
+SELECT *
+FROM Invoice
+WHERE InvoiceDate BETWEEN '2013-01-01' AND '2013-12-31';
